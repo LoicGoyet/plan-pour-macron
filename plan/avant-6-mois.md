@@ -4,6 +4,7 @@
 
 1. Changer le statut de fonctionnaire : un fonctionnaire peut être licencié ou réaffecté si son poste est considéré par son ministère comme inutile. Préavis de 3 mois.
     - Prévoir une structure de réinsertion.
+3. Retraite des fonctionnaires : Réévaluer les retraites de fonctionnaires pour prendre en compte les 25 meilleures années plûtot que les 6 derniers mois.
 2. Passage en revue de toutes les strates de l'état :
     1. Les APUC (Administration PUbliques Centrales) : MeteoFrance, etc.
         - Privatiser certaines
@@ -11,8 +12,6 @@
     2. Les APUL (Administration PUbliques Locales) :
         1. Réduction des couches : Supprimer les régions et Communautés de communes.
             - Si les maires désirent rester associés avec d'autres communes, cela doit se faire spontanément.
-3. Retraite des fonctionnaires : Réévaluer les retraites de fonctionnaires pour prendre en compte les 25 meilleures années plûtot que les 6 derniers mois.
-
 
 ## Réduction des recettes
 
@@ -25,10 +24,11 @@ Ne garder que les 4 taxes/impôts qui rapporte significativement des recettes po
 La TICPE doit être consacrée à 100% à la maintenance des équipements routiers.
 Elle doit être réduite en conséquence.
 
-Les départements et communes font chacun un impôt :
+Les départements et communes font chacun un impôt unique :
 - ID : Impôt du Département.
 - IC : Impôt de la Commune.
 Disparition de la taxe d'habitation et taxe foncière.
+Ils fixent librement le taux d'imposition par rapport au revenus et à la taille du bien immobilier (flat tax)
 
 ### IR
 - Instauration d'une flat tax à 10%.
@@ -99,6 +99,28 @@ La CSG doit s'apparenter à l'IR mais sa destination est exclusivement à la SS.
 5. Le personnel de l'education nationale est transféré dans les départements.
 6. Financement de l'école public via un chèque éducation transférés aux parents des familles, chèque ne pouvant être utilisé que par des organismes éducatifs reconnu par l'état.
 7. Suppression de l'ENA et de Science Po, absorption des personnels par les universités.
+
+## Entreprise
+
+Simplification de la comptabilité, des démarches administratives, du paiement des taxes.
+
+1. 2 types de statut d'entreprise :
+   - l'entreprise personnelle
+   - la société
+2. Fusion de tous les types de société en un seul sur le plan fiscal et social.
+    - liberté des statuts quand plusieurs actionnaires.
+    - responsabilité limitée au capital, sauf faute grave du dirigeant.
+3. Exception : Le statut d'autoentrepreneur reste à peu près comme il est actuellement. Toujours exonéré de TVA. Pas de comptabilité de dépense. Forfait de déduction en fonction du type d'activité (code APE). Pas d'IS.
+4. IS: Flat tax à 10%.
+5. Obligations comptable simple. Obligation d'avoir des comptes certifiés par un comptable.
+
+## Transport
+
+1. La TICPE ne peut plus servir qu'à financer les équipements routiers.
+2. Son affectation va à la maintenance et au développement du réseau routier.
+    - 20 000 km d'autoroute et de RN maintenus par l'état. 5% de la TICPE
+    - 1 000 000 km de routes secondaires et communales. 95% de la TICPE
+3. Du coup
 
 ## Europe
 
