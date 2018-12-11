@@ -6,4 +6,6 @@ Mais on ne peut liquider la sécurité sociale d'un coup sous peine de désorgan
 
 Ainsi, le revenu universel sera destiné à diminuer au profit d'aides volontaires gérés localement par des associations. Le financement étatique sera réparti selon le désir des contribuables entre associations locales qu'ils indiqueront. Les associations auront à publier des comptes d'activités d'aide d'urgences et de réinsertion.
 
+Le sujet est important car la sécurité sociale, c'est 380 milliard d'euros chaque année. C'est plus important que le budget de l'état (300 milliard d'euros)
+
 ## Fin

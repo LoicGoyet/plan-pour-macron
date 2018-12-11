@@ -9,6 +9,7 @@ Sources :
 - [Le Figaro](http://www.lefigaro.fr/conjoncture/2018/01/15/20002-20180115ARTFIG00333-financement-des-syndicats-la-cour-des-comptes-recommande-plus-de-transparence.php)
 - [LCI](https://www.lci.fr/societe/combien-les-syndicats-touchent-ils-vraiment-dargent-public-1513719.html)
 - [www.capital.fr](https://www.capital.fr/votre-carriere/la-jolie-hausse-des-subventions-aux-syndicats-1260667)
+- [Et surtout le rapport Perruchot](https://www.lepoint.fr/html/media/pdf/rapport-perruchot.pdf)
 
 ## Inflation législative
 
@@ -42,5 +43,9 @@ Source :
 66 millions d'euros du budget général de l'état.
 [Wikipedia](https://fr.wikipedia.org/wiki/Financement_des_partis_politiques_fran%C3%A7ais)
 
+## Financement sécurité sociale
+
+377 milliard d'euros en 2017.
+[www.lafinancepourtous.com](https://www.lafinancepourtous.com/decryptages/politiques-economiques/economie-francaise/comptes-publics/les-comptes-de-la-securite-sociale/)
 
 ## Fin
