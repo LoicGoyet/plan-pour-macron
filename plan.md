@@ -4,21 +4,7 @@ Ce plan fait face à la situation de la France en Décembre 2018.
 
 ## Exposé
 
-### Urgence
-
-#### Renouveller le syndicalisme français
-
-1. Interdire tout financement des syndicats par de l'argent public.
-2. Permettre à tout citoyen de créer **facilement** son syndicat en enlevant de la loi tout ce qui pourrait perturber cette création.
-3. Interdire sous peine de licenciement immédiat le droit de grêve aux fonctionnaires et autres agents du service public.
-
-#### Répondre aux demandes urgentes
-
-1. Baisser la TICPE de 20%.
-2. Enlever toutes les recettes fiscales autres que TVA, IR, IS, TICPE.
-   - Le cout de cette mesure est de 23 milliards d'euros sur des recettes actuelles de 286 milliards.
-3. Rétablir le 90 km/h sur les routes.
-
+- [Urgences](./urgences.md)
 
 ### Moyen terme
 
@@ -34,12 +20,13 @@ Ce plan fait face à la situation de la France en Décembre 2018.
         1. Réduction des couches : Supprimer les régions et Communautés de communes.
             - Si les maires désirent rester associés avec d'autres communes, cela doit se faire spontanément.
 
+
 #### Réduction des recettes
 
 Une fois la réduction des dépenses mis en place :
 Ne garder que les 4 taxes/impôts qui rapporte significativement des recettes pour l'état :
 - TVA état (20%)
-- TICPE (route)
+- TICPE (route) renommer en taxe sur les routes. TODO details.
 - IR état
 - IS état
 La TICPE doit être consacrée à 100% à la maintenance des équipements routiers.
@@ -65,6 +52,8 @@ Disparition de la taxe d'habitation et taxe foncière.
 2. Diminution du nombre de texte de loi (actuellement 320458 au 25 Janvier 2018) et de la taille d'une loi :
     - Objectif à 10 ans : Les lois qui s'appliquent aux citoyens francais ne doivent pas exceder 1000. Une loi ne doit pas dépasser 5000 mots. Il s'agit d'une énorme refonte.
 3. Simplification du code du travail.
+4. Interdire les niches fiscales : remboursement de taxes, écartement de l'assiette IR/IS/CSG, etc.
+5. Unicité des taux : "flat tax" pour toute taxe et impôt.
 
 #### Sécurité sociale
 
