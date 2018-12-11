@@ -5,15 +5,7 @@
 
 Ce plan fait face à la situation de la France en Décembre 2018.
 
-## Stratégie
 
-- Réduire à néant les menaces de révolte, en asséchant le financement et les organisations (syndicats, parti politique aux idées extrêmes étatistes).
-- Renforcer les fonctions de protection de l'état de droit : maintien de l'ordre, application du droit et garantie de la liberté de chaque individus.
-- Garder le budget militaire intact, tout en réduisant le nombre d'interventions et d'implications dans des conflits externes.
-- Reprendre le contrôle des flux de migrations.
-- Réduire le train de vie de l'état dans tous les autres sphères que justice, police, armée.
-- Réduire progressivement le nombre de texte de loi.
-- Refonte de la sécurité sociale.
 
 ## Exposé
 
