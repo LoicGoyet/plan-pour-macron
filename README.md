@@ -17,6 +17,6 @@ Une application partielle pourrait amener à une situation encore plus mauvaise 
 
 ## Références
 
-Ce plan est élaboré basé sur un certain nombre de données économiques, prises le plus possible sur des sources officielles.
+Ce plan est élaboré à partir d'un certain nombre de données économiques, prises le plus possible sur des sources officielles.
 
 [Références](./references.md)
