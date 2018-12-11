@@ -1,4 +1,4 @@
-# Plan pour Macron
+# Plan pour Macron - DRAFT
 
 Projet de plan pour redresser le pays en douceur.
 
@@ -14,3 +14,9 @@ Une application partielle pourrait amener à une situation encore plus mauvaise 
 ## Stratégie
 
 [Sécurité Sociale](./strategie/index.md)
+
+## Références
+
+Ce plan est élaboré basé sur un certain nombre de données économiques, prises le plus possible sur des sources officielles.
+
+[Références](./references.md)
