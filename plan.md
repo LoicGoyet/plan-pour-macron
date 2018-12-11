@@ -1,11 +1,6 @@
 # Plan pour redresser l'état français
 
-
-## Version
-
 Ce plan fait face à la situation de la France en Décembre 2018.
-
-
 
 ## Exposé
 
@@ -54,11 +49,12 @@ Les départements et communes font chacun un impôt :
 - IC : Impôt de la Commune.
 Disparition de la taxe d'habitation et taxe foncière.
 
-#####IR
+**IR**
 - Instauration d'une flat tax à 10%.
 - Assiette : tous les revenus (travail + capital)
+  - On notera donc un élargissement de l'assiette.
 
-#####IS
+**IS**
 - Instauration d'une flat tax à 10%.
 - Assiette : bénéfice d'une entreprise
 
@@ -67,7 +63,7 @@ Disparition de la taxe d'habitation et taxe foncière.
 1. Suppression de toutes les niches fiscales
 2. Diminution du nombre de texte de loi (actuellement 320458 au 25 Janvier 2018) et de la taille d'une loi :
     - Objectif à 10 ans : Les lois qui s'appliquent aux citoyens francais ne doivent pas exceder 1000. Une loi ne doit pas dépasser 5000 mots. Il s'agit d'une énorme refonte.
-
+3. Simplification du code du travail.
 
 #### Sécurité sociale
 
@@ -76,17 +72,18 @@ Il faut en premier lieu simplifier le modèle, et ensuite s'assurer des résulta
 - permettre aux plus pauvres de vivre dignement et de pouvoir s'insérer, d'avoir une perspective d'avenir, de devenir employable.
 - permettre de tenir les engagements des pensions de retraites.
 
-##### Cotisation sociales
+**Cotisation sociales**
 
 Les cotisations sociales sont exclusivement prises sur la CSG.
 La CSG doit s'apparenter à l'IR mais sa destination est exclusivement à la SS.
 
-1. Enlever toutes les autres cotisations sociales. 
-2. Chaque salarié recevra son salaire complet.
-    1. salaire moyen : 4200 euros.
-    2. salaire médian : 3200 euros.
-3. Il devra payer obligatoirement lui même une assurance maladie complémentaire.
-4. Il devra payer aussi sa retraite (facultatif).
+1. Suppression de toutes les cotisations sociales sauf CSG.
+2. Assiette de la CSG : identique à celle de l'IR.
+3. Taux de CSG : 15%.
+4. Chaque salarié recevra son salaire complet et sera responsable de payer lui-même son IR et CSG.
+   1. L'employeur poura proposer de payer IR et CSG à la source (volontariat).
+5. Le salarié sera responsable de se trouver une assurance maladie complémentaire.
+6. Le salarié sera responsable de se trouber une retraite complémentaire (déjà le cas)
 
 ##### Prestation Famille (CAF)
 
@@ -99,13 +96,15 @@ La CSG doit s'apparenter à l'IR mais sa destination est exclusivement à la SS.
 3. Réduction progressive du budget vers 0 en faisant une réduction de 10% par an, en transférant la responsabilité vers les assurances privées.
 
 ##### Retraites
-1. Fusion de tous les organismes de retraites CNAV, AGIRC, ARRCO et IRCANTEC.
+1. Fusion de tous les organismes de retraites CNAV, AGIRC, ARRCO et IRCANTEC via la CNAV.
 2. Ramener le taux de cotisant (actif/retraite) de 1.7 à 2 en relevant l'age de la retraite.
 3. Soustraire des retraites le montant de l'allocation universelle.
+4. La retraite sera constitue du revenu universel et des droits CNAV.
+5. La CNAV n'a pas droit au déficit budgétaire.
 
 #### Santé
 
-1. Privatisation de tous les hôpitaux.
+1. Privatisation de tous les hôpitaux pour des meilleurs soins par une organisation de terrain.
 2. Suppression de l'encadrement des tarifs de soins, et libre négociation entre les assurances maladies et médecins.
 
 #### Education
@@ -132,6 +131,5 @@ Par référendum, modifier la constitution pour :
 2. Justice indépendante du pouvoir executif.
     1. Election locale des magistrats.
     2. Mise en place d'un impôt local séparé pour assurer les frais de fonctionnement de la justice.
-3. 
 
 
