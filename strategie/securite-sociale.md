@@ -1,13 +1,9 @@
 # Stratégie concernant la refonte de la sécurité sociale
 
-Un plan n'est réaliste que si pour le mettre en place, on ne rencontre pas de résistance assez dure pour le faire échouer.
+La solidarité entre individus d'une même nation n'est pas du ressort de l'état, trop aveugle et lointain pour être juste. La charité, l'aide aux plus pauvres et démunis, aux faibles est nécessaire pour la bonne cohésion d'un peuple. Mais pour être effective, il faut que la charité soit davantage locale et basé sur le volontariat. La France a fait l'erreur depuis 1945 de rendre obligatoire la solidarité et de l'éloigner de la base.
 
+Mais on ne peut liquider la sécurité sociale d'un coup sous peine de désorganiser une partie de la population et provoquer des colères, où avoir un scénario comme dans les pays de l'est. Il faut donc un plan de transition. Il passe par le revenu universel et la mise en concurrence progressive des organismes de sécurité sociale avec le privé, plus efficace.
 
-Concernant le duo URSSAF/CAF :
-Il est clair que la solidarité entre individus d'une même nation n'est pas du ressort de l'état. La France a fait cette erreur depuis 1945.
+Ainsi, le revenu universel sera destiné à diminuer au profit d'aides volontaires gérés localement par des associations. Le financement étatique sera réparti selon le désir des contribuables entre associations locales qu'ils indiqueront. Les associations auront à publier des comptes d'activités d'aide d'urgences et de réinsertion.
 
-En l'annulant tout simplement, on met dans la rue toute une population qui en bénéficie. Et une population qui n'a rien à perdre et facile à monter en révolte. C'est donc un plan trop dur et voué à l'échec.
-
-Par contre, en mettant la CAF en concurrence avec d'autre organisme de redistributions, (ex: Resto du coeur, secour catholique, etc.), on incite à faire en sorte que les prestataires de la redistributions sociales communiquent mieux sur la façon dont ils redistribuent les dons.
-
-D'autre part, la solidarité, la vraie, celle qui est volontaire doit être incitée.
+## Fin
