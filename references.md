@@ -36,3 +36,8 @@ Source :
 [Bulletin officiel des douanes](http://www.douane.gouv.fr/informations/bulletins-officiels-des-douanes?da=17-045)
 [Les régions se prennent aussi un peu de TICPE](http://www.douane.gouv.fr/articles/a12285-carburants-gazole-super-e10-taux-de-taxe-par-region)
 [Blog](https://www.fastoche.fr/dossiers/argent/articles-argent-57-310.html)
+
+## Financement parti politiques
+
+66 millions d'euros du budget général de l'état.
+[Wikipedia](https://fr.wikipedia.org/wiki/Financement_des_partis_politiques_fran%C3%A7ais)
