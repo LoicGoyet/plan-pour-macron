@@ -14,8 +14,8 @@ Ce plan fait face à la situation de la France en Décembre 2018.
 #### Renouveller le syndicalisme français
 
 1. Interdire tout financement des syndicats par de l'argent public.
-2. Enlever de la loi tout ce qui freine la création par quiconque de nouveaux syndicats.
-3. Interdire sous peine de licenciement immédiat le droit de grêve aux fonctionnaires.
+2. Permettre à tout citoyen de créer **facilement** son syndicat en enlevant de la loi tout ce qui pourrait perturber cette création.
+3. Interdire sous peine de licenciement immédiat le droit de grêve aux fonctionnaires et autres agents du service public.
 
 #### Répondre aux demandes urgentes
 
