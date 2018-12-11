@@ -11,6 +11,7 @@
     2. Les APUL (Administration PUbliques Locales) :
         1. Réduction des couches : Supprimer les régions et Communautés de communes.
             - Si les maires désirent rester associés avec d'autres communes, cela doit se faire spontanément.
+3. Retraite des fonctionnaires : Réévaluer les retraites de fonctionnaires pour prendre en compte les 25 meilleures années plûtot que les 6 derniers mois.
 
 
 ## Réduction des recettes
