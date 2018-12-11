@@ -2,7 +2,7 @@
 
 ## Réduire les dépenses
 
-1. Changer le statut de fonctionnaire : un fonctionnaire peut être licencié si son poste devient inutile. Préavis de 3 mois.
+1. Changer le statut de fonctionnaire : un fonctionnaire peut être licencié ou réaffecté si son poste est considéré par son ministère comme inutile. Préavis de 3 mois.
     - Prévoir une structure de réinsertion.
 2. Passage en revue de toutes les strates de l'état :
     1. Les APUC (Administration PUbliques Centrales) : MeteoFrance, etc.
