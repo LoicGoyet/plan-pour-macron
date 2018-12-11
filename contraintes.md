@@ -12,9 +12,8 @@ Les oppositions peuvent être :
     - Profession administratives que le système a généré :
         - Comptables, Avocats, etc.
     - Profession "réglementées" qui casse leur concurrence par la complexité administrative d'accès.
-    - 
 - Les "naïfs" à qui il est facile d'inculquer la haine d'un fautif imaginaire, aujourd'hui appelé "le riche", "le juif", etc.
-- Les entreprises copines du pouvoir qui bénéficient de monopole de fait.
+- Les entreprises proches du pouvoir qui bénéficient de monopole de fait.
 
 ## Liste des contraintes
 

@@ -19,6 +19,7 @@ Ce plan fait face à la situation de la France en Décembre 2018.
    - Le cout de cette mesure est de 23 milliards d'euros sur des recettes actuelles de 286 milliards.
 3. Rétablir le 90 km/h sur les routes.
 
+
 ### Moyen terme
 
 #### Réduire les dépenses
@@ -115,6 +116,7 @@ La CSG doit s'apparenter à l'IR mais sa destination est exclusivement à la SS.
 4. Programmes sous la surveillance du ministère de l'education nationale.
 5. Le personnel de l'education nationale est transféré dans les départements.
 6. Financement de l'école public via un chèque éducation transférés aux parents des familles, chèque ne pouvant être utilisé que par des organismes éducatifs reconnu par l'état.
+7. Suppression de l'ENA et de Science Po, absorption des personnels par les universités.
 
 #### Europe
 
