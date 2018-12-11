@@ -118,7 +118,7 @@ La CSG doit s'apparenter à l'IR mais sa destination est exclusivement à la SS.
 
 Par référendum, modifier la constitution pour :
 
-1. Redonner le pouvoir au maires.
+1. Redonner le pouvoir aux maires.
 2. Justice indépendante du pouvoir executif.
     1. Election locale des magistrats.
     2. Mise en place d'un impôt local séparé pour assurer les frais de fonctionnement de la justice.
