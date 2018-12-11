@@ -1,4 +1,4 @@
-# Plan pour Macron - DRAFT
+# Plan pour Macron - DRAFT - EN COURS DE REDACTION
 
 Projet de plan pour redresser la France en douceur.
 
