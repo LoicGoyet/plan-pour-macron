@@ -20,7 +20,7 @@ Organiser un référendum pour faire valider cela par l'ensemble des français.
 2. Interdire définitivement aux fonctionnaires et autres agents de l'état d'avoir des mandats politiques. Démission immédiate du poste de fonctionnaires si l'individu désire conserver son mandat politique.
 3. Interdire l'embauche de fonctionnaires mais seulement de CDI de droit privé.
 
-## Baisse des taxes
+## Première baisse des taxes
 
 1. Baisser la TICPE nationale de 20%.
    - Prendre les montant fixes et les baisser tous de 20%. Egaliser les montants entre les différents fluides (gazole, essence SP95-E5, etc.)
