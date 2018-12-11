@@ -11,7 +11,6 @@ Organiser un référendum pour faire valider cela par l'ensemble des français.
     - Aucun financement public. Cout : 0.
 3. Interdire provisoirement sous peine de possibilité de licenciement immédiat le droit de grêve à tous salariés, quelqu'il soit, privé, fonctionnaires et autres agents du service public.
     - Coût : 0, voire des économies si il y a grêve.
-4. Interdire au fonctionnaire le droit de vote.
 
 ## Fonction publique
 
@@ -27,3 +26,4 @@ Organiser un référendum pour faire valider cela par l'ensemble des français.
    - Le cout de cette mesure est de 23 milliards d'euros sur des recettes actuelles de 286 milliards.
 3. Rétablir le 90 km/h sur les routes.
 
+## Fin
