@@ -13,9 +13,8 @@ Voici le plan détaillé :
 Ce plan tient compte de contraintes :
 - [Les contraintes](./contraintes.md).
 
-## Stratégie
-
-[Sécurité Sociale](./strategie/index.md)
+Ce plan suit une stratégie :
+- [Stratégie](./strategie/index.md)
 
 ## Références
 
