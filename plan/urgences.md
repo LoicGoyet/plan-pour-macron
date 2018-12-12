@@ -13,7 +13,7 @@ Organiser un référendum pour faire valider cela par l'ensemble des français.
     - Economie : 3.5 milliard d'euros pour les entreprises.
 3. Permettre à tout citoyen de créer **facilement** son syndicat en enlevant de la loi tout ce qui pourrait perturber cette création.
     - Aucun financement public. Cout : 0.
-4. Interdire provisoirement sous peine de possibilité de licenciement immédiat le droit de grêve à tous salariés, quelqu'il soit, privé, fonctionnaires et autres agents du service public.
+4. Interdire sous peine de licenciement immédiat le droit de grêve à tous fonctionnaires et autres agents du service public.
     - Coût : 0, voire des économies si il y a grêve.
 
 ## Fonction publique
@@ -29,5 +29,9 @@ Organiser un référendum pour faire valider cela par l'ensemble des français.
 2. Enlever toutes les recettes fiscales autres que TVA, IR, IS, TICPE.
    - Le cout de cette mesure est de 23 milliards d'euros sur des recettes actuelles de 286 milliards.
 3. Rétablir le 90 km/h sur les routes.
+
+## Terrorisme
+
+[Terrorisme](./terrorisme.md)
 
 ## Fin
