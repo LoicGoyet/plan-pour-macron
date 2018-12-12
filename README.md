@@ -21,3 +21,4 @@ Ce plan suit une stratégie :
 Ce plan est élaboré à partir d'un certain nombre de données économiques, prises le plus possible sur des sources officielles.
 
 [Références](./references.md)
+## Fin
