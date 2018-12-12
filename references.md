@@ -2,7 +2,7 @@
 
 ## Syndicats Financement
 
-L'état donne 4 milliard d'Euros par an au syndicats. Pas d'information précises.
+L'état donne 4 milliard d'Euros par an au syndicats. Source: Rapport Perruchot. Pas d'information précises.
 Pas de statistiques officiels tellement les schémas de financement sont complexes et opaques. On trouve le chiffre de 123 millions d'euros pour 2016.
 Sources : 
 - [www.vie-publique.fr](http://www.vie-publique.fr/decouverte-institutions/citoyen/participation/syndicat/comment-est-finance-syndicat.html)
